@@ -11,10 +11,10 @@
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <maven.compiler.source>1.8</maven.compiler.source>
-    <maven.compiler.target>1.8</maven.compiler.target>
+    <maven.compiler.source>17</maven.compiler.source>
+    <maven.compiler.target>17</maven.compiler.target>
 
-    <autores.version>8.1.5</autores.version>
+    <autores.version>17.1.1</autores.version>
     <example.main>com.example.Hello</example.main>
 
     <maven.compiler.plugin.version>3.14.0</maven.compiler.plugin.version>
