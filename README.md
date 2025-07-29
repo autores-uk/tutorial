@@ -5,7 +5,7 @@ A base project for [AutoRes.uk](https://autores.uk) tutorials.
 ## Prerequisites
 
  - [git client](https://git-scm.com/downloads)
- - [Java Development Kit](https://whichjdk.com/) 8+
+ - [Java Development Kit](https://whichjdk.com/) 17+
 
 ## Download Code
 
