@@ -1,3 +1,5 @@
+[![Java CI with Maven](https://github.com/autores-uk/tutorial/actions/workflows/maven.yml/badge.svg)](https://github.com/autores-uk/tutorial/actions/workflows/maven.yml)
+
 # AutoRes.uk Tutorial
 
 A base project for [AutoRes.uk](https://autores.uk) tutorials.
